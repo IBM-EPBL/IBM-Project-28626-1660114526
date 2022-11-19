@@ -46,6 +46,9 @@ Team Id : PNT2022TMID26880
 ## DEMONSTRATION VIDEO
 https://www.youtube.com/watch?v=O50QGyg0BGQ
 
+## DOCUMENTATION REPORT
+https://github.com/IBM-EPBL/IBM-Project-28626-1660114526/blob/main/Final%20Delivarables/DOCUMENTATION%20REPORT/Natural%20Disasters%20Intensity%20Analysis%20and%20Classification%20using%20Artificial%20Intelligence.pdf
+
 
 ## Support
 
