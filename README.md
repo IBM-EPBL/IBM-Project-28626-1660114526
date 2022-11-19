@@ -46,7 +46,7 @@ Team Id : PNT2022TMID38936
 
 For support, please reach out to us at email deepav.it2019@dscet.ac.in || ramachandranm.it2019@dscet.ac.in
 
-![Logo](data:https://cliply.co/wp-content/uploads/2021/08/472108170_THANK_YOU_STICKER_400px.gif)
+![Logo](https://cliply.co/wp-content/uploads/2021/08/472108170_THANK_YOU_STICKER_400px.gif)
 
 ## DEMONSTRATION VIDEO
 https://www.youtube.com/watch?v=O50QGyg0BGQ
