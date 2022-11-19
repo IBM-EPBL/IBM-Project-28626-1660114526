@@ -33,13 +33,14 @@ Natural disasters not only disturb the human ecological system but also destroy 
 
 
 ## 💫 Project Contributors
-Batch Name : B8-2A4E
+Batch Name : B2-2M4E
 
-Team Id : PNT2022TMID38936
+Team Id : PNT2022TMID26880
 - [@Deepa](https://github.com/deepavedhagiri)
 - [@Ramachandran](https://github.com/Ramachandran4277)
 - [@Deeksha](https://github.com/deeksha102)
 - [@Vinisha](https://github.com/vinisha845)
+- [@Srikanth](https://github.com/srikanth20202)
 
 
 ## DEMONSTRATION VIDEO
